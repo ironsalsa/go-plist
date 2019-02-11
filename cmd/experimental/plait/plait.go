@@ -7,7 +7,7 @@ import (
 	"os"
 	"syscall/js"
 
-	"howett.net/plist"
+	plist "github.com/ironsalsa/go-plist"
 )
 
 const JSONFormat int = 100
